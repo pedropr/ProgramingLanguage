@@ -1,0 +1,10 @@
+print "Entre los valores de a, b y c: "
+print "a ="
+read g
+print "b ="
+read h
+print "c ="
+read i
+g = h .mul. h .sub. 4 .mul. g .mul. i
+print "El discriminante es: "
+END.

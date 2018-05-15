@@ -1,0 +1,5 @@
+a = 4
+b = 5
+c = a .add. b
+if c .gt. 8 then print "it works"
+END.

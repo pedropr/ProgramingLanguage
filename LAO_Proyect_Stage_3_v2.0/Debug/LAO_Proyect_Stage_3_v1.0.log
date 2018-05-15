@@ -1,0 +1,107 @@
+﻿  Main.cpp
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(179): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(332): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(511): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(536): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(550): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(571): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(585): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(685): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(845): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(876): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(879): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(893): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(922): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(924): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(965): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1005): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1034): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1049): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1079): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1096): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1141): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1170): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1202): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1229): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1252): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1283): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1320): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1327): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1482): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1515): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1519): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1535): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1539): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1542): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1502): warning C4930: 'Token tempToken(void)': prototyped function not called (was a variable definition intended?)
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1727): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1736): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1753): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1762): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1879): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1925): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1972): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(1839): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2064): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2110): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2157): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2024): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2249): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2295): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2342): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2209): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2439): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2485): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2533): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2689): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2754): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2398): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2550): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2559): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2565): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2578): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2591): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2606): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2616): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2620): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2634): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2649): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2663): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2677): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2699): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2712): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2727): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2742): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2762): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2785): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2791): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2798): warning C4551: function call missing argument list
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2826): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2845): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2879): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnathan del toro\desktop\lao_proyect_stage_3_v2.0\main.cpp(2886): warning C4018: '<': signed/unsigned mismatch
+  LAO_Proyect_Stage_3_v1.0.vcxproj -> C:\Users\Johnathan del Toro\Desktop\LAO_Proyect_Stage_3_v2.0\Debug\LAO_Proyect_Stage_3_v1.0.exe
+  LAO_Proyect_Stage_3_v1.0.vcxproj -> C:\Users\Johnathan del Toro\Desktop\LAO_Proyect_Stage_3_v2.0\Debug\LAO_Proyect_Stage_3_v1.0.pdb (Full PDB)
